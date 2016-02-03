@@ -1,0 +1,10 @@
+Package: combination
+Type: Package
+Title: Methods to perform combination of forecasts
+Version: 0.1.0
+Date: 2016-02-02
+Author: person("Francisco", "Oliveira", , "fjunior.alves.oliveira@gmail.com", c("aut", "cre"))
+Description: Methods to perform combination of forecasts including average,
+             median, Optimal Combination, Ordinary Least Squares, and Performance.
+License: MIT + file LICENSE
+LazyData: TRUE
